@@ -1,0 +1,10 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file>icons/weather-cloudy.svg</file>
+        <file>icons/weather-lightning-rainy.svg</file>
+        <file>icons/weather-rainy.svg</file>
+        <file>icons/weather-snowy-rainy.svg</file>
+        <file>icons/weather-sunny.svg</file>
+    </qresource>
+</RCC>
